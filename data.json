@@ -9,11 +9,6 @@
       "username": "user",
       "password": "user123",
       "role": "user"
-    },
-    {
-      "username": "Bjir",
-      "password": "bjir",
-      "role": "user"
     }
   ],
   "tokens": [
