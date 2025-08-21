@@ -1,19 +1,6 @@
 {
+  "tokens": [],
   "accounts": [
-    {
-      "username": "admin",
-      "password": "admin123",
-      "role": "admin"
-    },
-    {
-      "username": "user",
-      "password": "user123",
-      "role": "user"
-    }
-  ],
-  "tokens": [
-    "ODAwMzcwNTIwMDpBQUdRaFdnYnJfdzRpT3pRVmxEdmdYM2FidXZtX1E3MWN1TQ==",
-    "WWR5ZHly",
-    "UA=="
+    {"username": "admin", "password": "admin123", "role": "admin"}
   ]
 }
