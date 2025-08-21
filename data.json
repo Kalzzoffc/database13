@@ -1,7 +1,17 @@
 {
   "accounts": [
-    { "username": "admin", "password": "admin123", "role": "admin" },
-    { "username": "user", "password": "user123", "role": "user" }
+    {
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "username": "user",
+      "password": "user123",
+      "role": "user"
+    }
   ],
-  "tokens": []
+  "tokens": [
+    "ODAwMzcwNTIwMDpBQUdRaFdnYnJfdzRpT3pRVmxEdmdYM2FidXZtX1E3MWN1TQ=="
+  ]
 }
