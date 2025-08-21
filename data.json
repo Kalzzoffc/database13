@@ -1,6 +1,12 @@
 {
-  "tokens": [],
+  "tokens": [
+    "Hdhd"
+  ],
   "accounts": [
-    {"username": "admin", "password": "admin123", "role": "admin"}
+    {
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin"
+    }
   ]
 }
