@@ -14,11 +14,6 @@
       "role": "admin"
     },
     {
-      "username": "user",
-      "password": "001",
-      "role": "user"
-    },
-    {
       "username": "1",
       "password": "1",
       "role": "user"
