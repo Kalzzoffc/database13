@@ -1,17 +1,8 @@
 {
-  "tokens": [
-    "8003705200:AAGQhWgbr_w4iOzQVlDvgX3abuvm_Q71cuM"
-  ],
   "accounts": [
-    {
-      "username": "Kalzz",
-      "password": "7",
-      "role": "owner"
-    },
-    {
-      "username": "1",
-      "password": "1",
-      "role": "admin"
-    }
-  ]
+    { "username": "owner", "password": "4c1029697ee358715d3a14a2add817c4b01651440de808371f78165ac90dc581", "role": "owner" },
+    { "username": "admin", "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9", "role": "admin" },
+    { "username": "user",  "password": "e606e38b0d8c19b24cf0ee3808183162ea7cd63ff7912dbb22b5e803286b4446", "role": "user" }
+  ],
+  "tokens": []
 }
