@@ -15,6 +15,11 @@
       "username": "Rafka",
       "password": "00123",
       "role": "admin"
+    },
+    {
+      "username": "P",
+      "password": "p",
+      "role": "user"
     }
   ]
 }
