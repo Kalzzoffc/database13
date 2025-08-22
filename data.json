@@ -5,12 +5,12 @@
   "accounts": [
     {
       "username": "Kalzz",
-      "password": "00121Z",
-      "role": "admin"
+      "password": "7",
+      "role": "owner"
     },
     {
-      "username": "Rafka",
-      "password": "00123",
+      "username": "1",
+      "password": "1",
       "role": "admin"
     }
   ]
