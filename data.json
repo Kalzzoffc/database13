@@ -3,18 +3,18 @@
   "accounts": [
     {
       "username": "Kalzz",
-      "password": "1",
+      "password": "00121Z",
       "role": "admin"
-    },
-    {
-      "username": "Tesakun",
-      "password": "012",
-      "role": "user"
     },
     {
       "username": "Rafka",
       "password": "00123",
       "role": "admin"
+    },
+    {
+      "username": "user",
+      "password": "001",
+      "role": "user"
     }
   ]
 }
