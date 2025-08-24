@@ -7,11 +7,6 @@
       "role": "owner"
     },
     {
-      "username": "1",
-      "password": "1",
-      "role": "admin"
-    },
-    {
       "username": "5",
       "password": "5",
       "role": "user"
