@@ -10,11 +10,6 @@
       "username": "5",
       "password": "5",
       "role": "user"
-    },
-    {
-      "username": "7",
-      "password": "7",
-      "role": "admin"
     }
   ]
 }
