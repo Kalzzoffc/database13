@@ -2,14 +2,14 @@
   "tokens": [],
   "accounts": [
     {
+      "username": "Kalzz",
+      "password": "1",
+      "role": "owner"
+    },
+    {
       "username": "1",
       "password": "1",
       "role": "admin"
-    },
-    {
-      "username": "user",
-      "password": "user",
-      "role": "user"
     }
   ]
 }
