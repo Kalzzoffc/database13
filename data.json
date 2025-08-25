@@ -1,5 +1,7 @@
 {
-  "tokens": [],
+  "tokens": [
+    "content.accounts"
+  ],
   "accounts": [
     {
       "username": "Kalzz",
